@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arbaz Awan</h1>
-<h3 align="center">Cloud & AI Enthusiast | Full Stack Developer | Designer</h3>
+<h3 align="center">Cloud & AI Enthusiast | Full Stack Developer | ML Engineer | NLP & CV Developer | Designer</h3>
 
 ---
 
@@ -7,9 +7,26 @@
 
 - 🎓 Computer Science student at Ghulam Ishaq Khan Institute  
 - ☁️ Passionate about Cloud Computing, Serverless Architectures, and AI  
-- 🤖 Working on AI-integrated apps using OpenAI & AWS  
-- 🧠 Building smart applications for real-time transcription, object detection & 3D mapping  
+- 🤖 Working on AI-integrated apps using OpenAI, HuggingFace & AWS  
+- 🧠 Built projects in NLP, ML, and Computer Vision:
+  - 🔹 Resume Screening using Transformers  
+  - 🔹 English to French Translation using Seq2Seq  
+  - 🔹 Poker Hand Prediction using Logistic Regression  
+  - 🔹 Breast Cancer Classification using ML  
+- 🧪 Comfortable with model deployment, APIs, and data preprocessing  
 - 🎨 Experienced Graphic Designer – handled @mediaclubgiki page  
+
+---
+
+## 💼 Freelance Services I Offer:
+
+- ✅ Full Stack Web Development (React, Node.js, Express, Flask)  
+- ✅ API Integration & Automation (REST, OpenAI, Hugging Face)  
+- ✅ AI & Machine Learning Solutions  
+- ✅ NLP & Computer Vision Applications  
+- ✅ Data Analysis, Dashboards & Visualization  
+- ✅ Cloud Deployment (AWS, Firebase)  
+- ✅ Graphic Design & Branding (Posters, Banners, Social Media)
 
 ---
 
