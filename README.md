@@ -5,7 +5,6 @@
 
 ## 🔹 About Me:
 
-- 🎓 Computer Science student at Ghulam Ishaq Khan Institute  
 - ☁️ Passionate about Cloud Computing, Serverless Architectures, and AI  
 - 🤖 Working on AI-integrated apps using OpenAI, HuggingFace & AWS  
 - 🧠 Built projects in NLP, ML, and Computer Vision:
