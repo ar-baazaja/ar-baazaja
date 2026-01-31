@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arbaz Awan</h1>
-<h3 align="center">Cloud & AI Enthusiast | Full Stack Developer | ML Engineer | NLP & CV Developer | Designer</h3>
+<h3 align="center">Building Practical AI & ML Systems</h3>
 
 ---
 
 ## 🔹 About Me:
 
-- ☁️ Passionate about Cloud Computing, Serverless Architectures, and AI  
-- 🤖 Working on AI-integrated apps using OpenAI, HuggingFace & AWS  
-- 🧠 Built projects in NLP, ML, and Computer Vision:
-  - 🔹 Resume Screening using Transformers  
-  - 🔹 English to French Translation using Seq2Seq  
-  - 🔹 Poker Hand Prediction using Logistic Regression  
-  - 🔹 Breast Cancer Classification using ML  
-- 🧪 Comfortable with model deployment, APIs, and data preprocessing  
-- 🎨 Experienced Graphic Designer – handled @mediaclubgiki page  
+I’m a driven software developer with a strong focus on Cloud Computing, Serverless Architectures, and AI-powered application development. I specialize in building scalable, production-ready systems by combining robust cloud infrastructure with modern AI technologies such as AWS, OpenAI, and Hugging Face.
 
----
+I’m confident across the full development lifecycle, from designing clean, efficient APIs to deploying and optimizing intelligent systems in real-world environments. I care deeply about building solutions that are reliable, performant, and engineered with clarity—systems that scale well and actually solve problems.
 
 ## 💼 Freelance Services I Offer:
 
