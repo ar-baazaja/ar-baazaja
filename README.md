@@ -7,7 +7,7 @@
 
 I’m a driven software developer with a strong focus on Cloud Computing, Serverless Architectures, and AI-powered application development. I specialize in building scalable, production-ready systems by combining robust cloud infrastructure with modern AI technologies such as AWS, OpenAI, and Hugging Face.
 
-I’m confident across the full development lifecycle, from designing clean, efficient APIs to deploying and optimizing intelligent systems in real-world environments. I care deeply about building solutions that are reliable, performant, and engineered with clarity—systems that scale well and actually solve problems.
+I’m confident across the full development lifecycle, from designing clean, efficient APIs to deploying and optimizing intelligent systems in real-world environments. I care deeply about building solutions that are reliable, performant, and engineered with clarity systems that scale well and actually solve problems.
 
 ## 💼 Freelance Services I Offer:
 
