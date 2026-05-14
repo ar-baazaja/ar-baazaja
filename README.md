@@ -88,4 +88,4 @@ Open to opportunities where I can contribute to building impactful AI systems, s
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate.*
+
