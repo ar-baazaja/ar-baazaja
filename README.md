@@ -3,21 +3,22 @@
 
 ---
 
-## 🔹 About Me:
+##  About Me:
 
-I’m a driven software developer with a strong focus on Cloud Computing, Serverless Architectures, and AI-powered application development. I specialize in building scalable, production-ready systems by combining robust cloud infrastructure with modern AI technologies such as AWS, OpenAI, and Hugging Face.
+AI Engineer specializing in LLM applications, AI agents, and cloud-native system design. Experienced in building end-to-end AI solutions using modern ML frameworks, APIs, and AWS infrastructure, with a strong focus on turning models into reliable, production-grade systems.
 
-I’m confident across the full development lifecycle, from designing clean, efficient APIs to deploying and optimizing intelligent systems in real-world environments. I care deeply about building solutions that are reliable, performant, and engineered with clarity systems that scale well and actually solve problems.
+I work across the full lifecycle from designing system architecture and integrating foundation models to deploying scalable backend services and optimizing performance in real-world environments. I enjoy building AI products that are not just experimental, but stable, maintainable, and actually useful at scale.
 
-## 💼 Freelance Services I Offer:
+Open to opportunities where I can contribute to building impactful AI systems, solve complex engineering problems, and ship real-world applications that combine intelligence with strong software engineering practices.
+##  Freelance Services I Offer:
 
-- ✅ Full Stack Web Development (React, Node.js, Express, Flask)  
-- ✅ API Integration & Automation (REST, OpenAI, Hugging Face)  
-- ✅ AI & Machine Learning Solutions  
-- ✅ NLP & Computer Vision Applications  
-- ✅ Data Analysis, Dashboards & Visualization  
-- ✅ Cloud Deployment (AWS, Firebase)  
-- ✅ Graphic Design & Branding (Posters, Banners, Social Media)
+- Full Stack Web Development (React, Node.js, Express, Flask)  
+- API Integration & Automation (REST, OpenAI, Hugging Face)  
+- AI & Machine Learning Solutions  
+- NLP & Computer Vision Applications  
+- Data Analysis, Dashboards & Visualization  
+- Cloud Deployment (AWS, Firebase)  
+- Graphic Design & Branding (Posters, Banners, Social Media)
 
 ---
 
